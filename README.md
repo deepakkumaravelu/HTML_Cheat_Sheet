@@ -81,14 +81,12 @@ HTML <head> Section
 ```html
 <a href="URL">Link Text</a>
 Hyperlink.
-Images
-html
-Copy code
+
+
 <img src="image.jpg" alt="Description">
 Image.
 Tables
-html
-Copy code
+
 <table>
     <tr>
         <th>Header 1</th>
@@ -99,9 +97,8 @@ Copy code
         <td>Data 2</td>
     </tr>
 </table>
-Forms
-html
-Copy code
+#Forms
+
 <form action="submit" method="post/get">
     <input type="text" name="username" placeholder="Username">
     <input type="password" name="password" placeholder="Password">
@@ -116,8 +113,7 @@ Semantic Elements
 <aside>: Represents content aside from the content it is placed in.
 <main>: Represents the main content of the document.
 Comments
-html
-Copy code
+
 <!-- This is a comment -->
 Comments are not displayed in the browser.
 Additional Tags
